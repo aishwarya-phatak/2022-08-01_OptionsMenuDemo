@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/save"
+        android:title="@string/save"/>
+
+    <item android:id="@+id/saveAs"
+        android:title="@string/save_as"/>
+
+    <item android:id="@+id/open"
+        android:title="@string/open"/>
+
+    <item android:id="@+id/copy"
+        android:title="@string/copy"/>
+
+    <item android:id="@+id/saveImgURL"
+        android:title="@string/save_image_url"/>
+</menu>
